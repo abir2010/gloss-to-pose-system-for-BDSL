@@ -1,0 +1,1537 @@
+condition,idx,edits,ref_len,exact
+Real test poses,0,0,4,1
+Real test poses,1,0,4,1
+Real test poses,2,1,4,0
+Real test poses,3,1,4,0
+Real test poses,4,0,4,1
+Real test poses,5,0,4,1
+Real test poses,6,0,4,1
+Real test poses,7,1,4,0
+Real test poses,8,1,4,0
+Real test poses,9,0,4,1
+Real test poses,10,0,4,1
+Real test poses,11,0,5,1
+Real test poses,12,1,5,0
+Real test poses,13,0,4,1
+Real test poses,14,0,5,1
+Real test poses,15,1,5,0
+Real test poses,16,0,6,1
+Real test poses,17,0,5,1
+Real test poses,18,0,5,1
+Real test poses,19,0,5,1
+Real test poses,20,1,5,0
+Real test poses,21,0,5,1
+Real test poses,22,0,5,1
+Real test poses,23,0,5,1
+Real test poses,24,1,5,0
+Real test poses,25,0,6,1
+Real test poses,26,0,5,1
+Real test poses,27,0,6,1
+Real test poses,28,0,6,1
+Real test poses,29,1,5,0
+Real test poses,30,0,5,1
+Real test poses,31,0,5,1
+Real test poses,32,0,5,1
+Real test poses,33,0,5,1
+Real test poses,34,1,5,0
+Real test poses,35,0,6,1
+Real test poses,36,0,6,1
+Real test poses,37,0,5,1
+Real test poses,38,0,5,1
+Real test poses,39,1,6,0
+Real test poses,40,1,5,0
+Real test poses,41,0,5,1
+Real test poses,42,0,5,1
+Real test poses,43,0,5,1
+Real test poses,44,0,7,1
+Real test poses,45,1,4,0
+Real test poses,46,0,3,1
+Real test poses,47,0,3,1
+Real test poses,48,0,4,1
+Real test poses,49,0,4,1
+Real test poses,50,0,3,1
+Real test poses,51,0,4,1
+Real test poses,52,1,4,0
+Real test poses,53,1,4,0
+Real test poses,54,0,4,1
+Real test poses,55,0,4,1
+Real test poses,56,0,5,1
+Real test poses,57,0,5,1
+Real test poses,58,0,5,1
+Real test poses,59,0,4,1
+Real test poses,60,0,4,1
+Real test poses,61,1,4,0
+Real test poses,62,0,4,1
+Real test poses,63,0,4,1
+Real test poses,64,0,5,1
+Real test poses,65,0,5,1
+Real test poses,66,0,5,1
+Real test poses,67,0,4,1
+Real test poses,68,0,4,1
+Real test poses,69,0,4,1
+Real test poses,70,0,4,1
+Real test poses,71,0,4,1
+Real test poses,72,0,5,1
+Real test poses,73,0,5,1
+Real test poses,74,0,5,1
+Real test poses,75,0,5,1
+Real test poses,76,0,4,1
+Real test poses,77,0,5,1
+Real test poses,78,1,4,0
+Real test poses,79,0,6,1
+Real test poses,80,1,5,0
+Real test poses,81,0,5,1
+Real test poses,82,0,4,1
+Real test poses,83,0,4,1
+Real test poses,84,0,4,1
+Real test poses,85,0,5,1
+Real test poses,86,1,4,0
+Real test poses,87,0,4,1
+Real test poses,88,0,4,1
+Real test poses,89,0,4,1
+Real test poses,90,0,4,1
+Real test poses,91,0,4,1
+Real test poses,92,0,4,1
+Real test poses,93,0,5,1
+Real test poses,94,0,5,1
+Real test poses,95,0,5,1
+Real test poses,96,0,6,1
+Real test poses,97,0,5,1
+Real test poses,98,0,6,1
+Real test poses,99,0,5,1
+Real test poses,100,0,5,1
+Real test poses,101,0,6,1
+Real test poses,102,0,5,1
+Real test poses,103,0,5,1
+Real test poses,104,0,5,1
+Real test poses,105,0,5,1
+Real test poses,106,0,5,1
+Real test poses,107,0,5,1
+Real test poses,108,0,6,1
+Real test poses,109,0,5,1
+Real test poses,110,0,7,1
+Real test poses,111,0,7,1
+Real test poses,112,0,7,1
+Real test poses,113,0,6,1
+Real test poses,114,0,6,1
+Real test poses,115,0,6,1
+Real test poses,116,0,5,1
+Real test poses,117,0,5,1
+Real test poses,118,0,6,1
+Real test poses,119,0,5,1
+Real test poses,120,1,5,0
+Real test poses,121,1,6,0
+Real test poses,122,0,5,1
+Real test poses,123,0,6,1
+Real test poses,124,0,5,1
+Real test poses,125,0,6,1
+Real test poses,126,0,5,1
+Real test poses,127,0,6,1
+Real test poses,128,0,6,1
+Real test poses,129,0,5,1
+Real test poses,130,0,6,1
+Real test poses,131,0,6,1
+Real test poses,132,0,6,1
+Real test poses,133,0,5,1
+Real test poses,134,0,5,1
+Real test poses,135,0,5,1
+Real test poses,136,0,5,1
+Real test poses,137,0,7,1
+Real test poses,138,0,6,1
+Real test poses,139,0,6,1
+Real test poses,140,1,5,0
+Real test poses,141,0,5,1
+Real test poses,142,0,6,1
+Real test poses,143,1,5,0
+Real test poses,144,1,5,0
+Real test poses,145,0,6,1
+Real test poses,146,1,7,0
+Real test poses,147,0,7,1
+Real test poses,148,1,6,0
+Real test poses,149,0,5,1
+Real test poses,150,0,5,1
+Real test poses,151,1,6,0
+Real test poses,152,0,5,1
+Real test poses,153,0,6,1
+Real test poses,154,0,6,1
+Real test poses,155,0,5,1
+Real test poses,156,0,5,1
+Real test poses,157,0,5,1
+Real test poses,158,0,5,1
+Real test poses,159,1,6,0
+Real test poses,160,0,5,1
+Real test poses,161,0,5,1
+Real test poses,162,1,5,0
+Real test poses,163,0,5,1
+Real test poses,164,0,6,1
+Real test poses,165,0,6,1
+Real test poses,166,0,6,1
+Real test poses,167,0,6,1
+Real test poses,168,0,6,1
+Real test poses,169,0,6,1
+Real test poses,170,0,6,1
+Real test poses,171,0,5,1
+Real test poses,172,0,6,1
+Real test poses,173,0,5,1
+Real test poses,174,1,5,0
+Real test poses,175,0,5,1
+Real test poses,176,0,5,1
+Real test poses,177,0,5,1
+Real test poses,178,0,5,1
+Real test poses,179,1,5,0
+Real test poses,180,0,7,1
+Real test poses,181,1,6,0
+Real test poses,182,0,5,1
+Real test poses,183,0,6,1
+Real test poses,184,0,6,1
+Real test poses,185,0,6,1
+Real test poses,186,0,5,1
+Real test poses,187,0,7,1
+Real test poses,188,0,6,1
+Real test poses,189,1,6,0
+Real test poses,190,1,6,0
+Real test poses,191,1,6,0
+Progressive Transformer,0,3,4,0
+Progressive Transformer,1,3,4,0
+Progressive Transformer,2,1,4,0
+Progressive Transformer,3,2,4,0
+Progressive Transformer,4,2,4,0
+Progressive Transformer,5,4,4,0
+Progressive Transformer,6,3,4,0
+Progressive Transformer,7,3,4,0
+Progressive Transformer,8,2,4,0
+Progressive Transformer,9,4,4,0
+Progressive Transformer,10,2,4,0
+Progressive Transformer,11,3,5,0
+Progressive Transformer,12,1,5,0
+Progressive Transformer,13,1,4,0
+Progressive Transformer,14,2,5,0
+Progressive Transformer,15,0,5,1
+Progressive Transformer,16,4,6,0
+Progressive Transformer,17,2,5,0
+Progressive Transformer,18,3,5,0
+Progressive Transformer,19,3,5,0
+Progressive Transformer,20,1,5,0
+Progressive Transformer,21,1,5,0
+Progressive Transformer,22,1,5,0
+Progressive Transformer,23,1,5,0
+Progressive Transformer,24,4,5,0
+Progressive Transformer,25,3,6,0
+Progressive Transformer,26,2,5,0
+Progressive Transformer,27,3,6,0
+Progressive Transformer,28,1,6,0
+Progressive Transformer,29,2,5,0
+Progressive Transformer,30,3,5,0
+Progressive Transformer,31,0,5,1
+Progressive Transformer,32,0,5,1
+Progressive Transformer,33,1,5,0
+Progressive Transformer,34,2,5,0
+Progressive Transformer,35,2,6,0
+Progressive Transformer,36,3,6,0
+Progressive Transformer,37,4,5,0
+Progressive Transformer,38,2,5,0
+Progressive Transformer,39,3,6,0
+Progressive Transformer,40,1,5,0
+Progressive Transformer,41,4,5,0
+Progressive Transformer,42,2,5,0
+Progressive Transformer,43,2,5,0
+Progressive Transformer,44,4,7,0
+Progressive Transformer,45,3,4,0
+Progressive Transformer,46,2,3,0
+Progressive Transformer,47,2,3,0
+Progressive Transformer,48,1,4,0
+Progressive Transformer,49,0,4,1
+Progressive Transformer,50,1,3,0
+Progressive Transformer,51,1,4,0
+Progressive Transformer,52,1,4,0
+Progressive Transformer,53,2,4,0
+Progressive Transformer,54,2,4,0
+Progressive Transformer,55,1,4,0
+Progressive Transformer,56,1,5,0
+Progressive Transformer,57,1,5,0
+Progressive Transformer,58,1,5,0
+Progressive Transformer,59,4,4,0
+Progressive Transformer,60,1,4,0
+Progressive Transformer,61,2,4,0
+Progressive Transformer,62,4,4,0
+Progressive Transformer,63,3,4,0
+Progressive Transformer,64,0,5,1
+Progressive Transformer,65,1,5,0
+Progressive Transformer,66,4,5,0
+Progressive Transformer,67,2,4,0
+Progressive Transformer,68,1,4,0
+Progressive Transformer,69,3,4,0
+Progressive Transformer,70,1,4,0
+Progressive Transformer,71,3,4,0
+Progressive Transformer,72,4,5,0
+Progressive Transformer,73,0,5,1
+Progressive Transformer,74,2,5,0
+Progressive Transformer,75,0,5,1
+Progressive Transformer,76,2,4,0
+Progressive Transformer,77,2,5,0
+Progressive Transformer,78,0,4,1
+Progressive Transformer,79,2,6,0
+Progressive Transformer,80,2,5,0
+Progressive Transformer,81,2,5,0
+Progressive Transformer,82,1,4,0
+Progressive Transformer,83,1,4,0
+Progressive Transformer,84,0,4,1
+Progressive Transformer,85,0,5,1
+Progressive Transformer,86,0,4,1
+Progressive Transformer,87,5,4,0
+Progressive Transformer,88,3,4,0
+Progressive Transformer,89,3,4,0
+Progressive Transformer,90,4,4,0
+Progressive Transformer,91,3,4,0
+Progressive Transformer,92,5,4,0
+Progressive Transformer,93,3,5,0
+Progressive Transformer,94,0,5,1
+Progressive Transformer,95,0,5,1
+Progressive Transformer,96,3,6,0
+Progressive Transformer,97,5,5,0
+Progressive Transformer,98,2,6,0
+Progressive Transformer,99,1,5,0
+Progressive Transformer,100,3,5,0
+Progressive Transformer,101,1,6,0
+Progressive Transformer,102,2,5,0
+Progressive Transformer,103,4,5,0
+Progressive Transformer,104,4,5,0
+Progressive Transformer,105,4,5,0
+Progressive Transformer,106,0,5,1
+Progressive Transformer,107,5,5,0
+Progressive Transformer,108,1,6,0
+Progressive Transformer,109,1,5,0
+Progressive Transformer,110,4,7,0
+Progressive Transformer,111,4,7,0
+Progressive Transformer,112,5,7,0
+Progressive Transformer,113,4,6,0
+Progressive Transformer,114,3,6,0
+Progressive Transformer,115,6,6,0
+Progressive Transformer,116,4,5,0
+Progressive Transformer,117,3,5,0
+Progressive Transformer,118,1,6,0
+Progressive Transformer,119,3,5,0
+Progressive Transformer,120,3,5,0
+Progressive Transformer,121,3,6,0
+Progressive Transformer,122,2,5,0
+Progressive Transformer,123,3,6,0
+Progressive Transformer,124,3,5,0
+Progressive Transformer,125,2,6,0
+Progressive Transformer,126,0,5,1
+Progressive Transformer,127,4,6,0
+Progressive Transformer,128,4,6,0
+Progressive Transformer,129,2,5,0
+Progressive Transformer,130,4,6,0
+Progressive Transformer,131,3,6,0
+Progressive Transformer,132,3,6,0
+Progressive Transformer,133,3,5,0
+Progressive Transformer,134,1,5,0
+Progressive Transformer,135,0,5,1
+Progressive Transformer,136,0,5,1
+Progressive Transformer,137,4,7,0
+Progressive Transformer,138,1,6,0
+Progressive Transformer,139,1,6,0
+Progressive Transformer,140,2,5,0
+Progressive Transformer,141,2,5,0
+Progressive Transformer,142,2,6,0
+Progressive Transformer,143,3,5,0
+Progressive Transformer,144,2,5,0
+Progressive Transformer,145,4,6,0
+Progressive Transformer,146,2,7,0
+Progressive Transformer,147,2,7,0
+Progressive Transformer,148,1,6,0
+Progressive Transformer,149,2,5,0
+Progressive Transformer,150,3,5,0
+Progressive Transformer,151,1,6,0
+Progressive Transformer,152,4,5,0
+Progressive Transformer,153,4,6,0
+Progressive Transformer,154,2,6,0
+Progressive Transformer,155,3,5,0
+Progressive Transformer,156,1,5,0
+Progressive Transformer,157,1,5,0
+Progressive Transformer,158,3,5,0
+Progressive Transformer,159,4,6,0
+Progressive Transformer,160,3,5,0
+Progressive Transformer,161,3,5,0
+Progressive Transformer,162,2,5,0
+Progressive Transformer,163,4,5,0
+Progressive Transformer,164,4,6,0
+Progressive Transformer,165,4,6,0
+Progressive Transformer,166,3,6,0
+Progressive Transformer,167,1,6,0
+Progressive Transformer,168,3,6,0
+Progressive Transformer,169,1,6,0
+Progressive Transformer,170,1,6,0
+Progressive Transformer,171,3,5,0
+Progressive Transformer,172,2,6,0
+Progressive Transformer,173,2,5,0
+Progressive Transformer,174,1,5,0
+Progressive Transformer,175,0,5,1
+Progressive Transformer,176,0,5,1
+Progressive Transformer,177,0,5,1
+Progressive Transformer,178,0,5,1
+Progressive Transformer,179,2,5,0
+Progressive Transformer,180,2,7,0
+Progressive Transformer,181,2,6,0
+Progressive Transformer,182,1,5,0
+Progressive Transformer,183,3,6,0
+Progressive Transformer,184,1,6,0
+Progressive Transformer,185,3,6,0
+Progressive Transformer,186,0,5,1
+Progressive Transformer,187,3,7,0
+Progressive Transformer,188,1,6,0
+Progressive Transformer,189,1,6,0
+Progressive Transformer,190,1,6,0
+Progressive Transformer,191,3,6,0
+NAT + MSE,0,1,4,0
+NAT + MSE,1,1,4,0
+NAT + MSE,2,1,4,0
+NAT + MSE,3,1,4,0
+NAT + MSE,4,0,4,1
+NAT + MSE,5,0,4,1
+NAT + MSE,6,1,4,0
+NAT + MSE,7,0,4,1
+NAT + MSE,8,1,4,0
+NAT + MSE,9,0,4,1
+NAT + MSE,10,0,4,1
+NAT + MSE,11,0,5,1
+NAT + MSE,12,1,5,0
+NAT + MSE,13,0,4,1
+NAT + MSE,14,1,5,0
+NAT + MSE,15,0,5,1
+NAT + MSE,16,0,6,1
+NAT + MSE,17,1,5,0
+NAT + MSE,18,0,5,1
+NAT + MSE,19,0,5,1
+NAT + MSE,20,1,5,0
+NAT + MSE,21,0,5,1
+NAT + MSE,22,1,5,0
+NAT + MSE,23,0,5,1
+NAT + MSE,24,1,5,0
+NAT + MSE,25,0,6,1
+NAT + MSE,26,0,5,1
+NAT + MSE,27,0,6,1
+NAT + MSE,28,1,6,0
+NAT + MSE,29,1,5,0
+NAT + MSE,30,0,5,1
+NAT + MSE,31,0,5,1
+NAT + MSE,32,0,5,1
+NAT + MSE,33,0,5,1
+NAT + MSE,34,1,5,0
+NAT + MSE,35,1,6,0
+NAT + MSE,36,0,6,1
+NAT + MSE,37,0,5,1
+NAT + MSE,38,0,5,1
+NAT + MSE,39,1,6,0
+NAT + MSE,40,1,5,0
+NAT + MSE,41,0,5,1
+NAT + MSE,42,0,5,1
+NAT + MSE,43,0,5,1
+NAT + MSE,44,4,7,0
+NAT + MSE,45,3,4,0
+NAT + MSE,46,1,3,0
+NAT + MSE,47,1,3,0
+NAT + MSE,48,0,4,1
+NAT + MSE,49,0,4,1
+NAT + MSE,50,0,3,1
+NAT + MSE,51,1,4,0
+NAT + MSE,52,0,4,1
+NAT + MSE,53,0,4,1
+NAT + MSE,54,0,4,1
+NAT + MSE,55,0,4,1
+NAT + MSE,56,0,5,1
+NAT + MSE,57,1,5,0
+NAT + MSE,58,1,5,0
+NAT + MSE,59,1,4,0
+NAT + MSE,60,1,4,0
+NAT + MSE,61,1,4,0
+NAT + MSE,62,0,4,1
+NAT + MSE,63,0,4,1
+NAT + MSE,64,0,5,1
+NAT + MSE,65,0,5,1
+NAT + MSE,66,0,5,1
+NAT + MSE,67,0,4,1
+NAT + MSE,68,0,4,1
+NAT + MSE,69,0,4,1
+NAT + MSE,70,0,4,1
+NAT + MSE,71,0,4,1
+NAT + MSE,72,0,5,1
+NAT + MSE,73,0,5,1
+NAT + MSE,74,0,5,1
+NAT + MSE,75,0,5,1
+NAT + MSE,76,0,4,1
+NAT + MSE,77,0,5,1
+NAT + MSE,78,1,4,0
+NAT + MSE,79,0,6,1
+NAT + MSE,80,1,5,0
+NAT + MSE,81,0,5,1
+NAT + MSE,82,0,4,1
+NAT + MSE,83,0,4,1
+NAT + MSE,84,1,4,0
+NAT + MSE,85,0,5,1
+NAT + MSE,86,1,4,0
+NAT + MSE,87,0,4,1
+NAT + MSE,88,0,4,1
+NAT + MSE,89,0,4,1
+NAT + MSE,90,1,4,0
+NAT + MSE,91,0,4,1
+NAT + MSE,92,1,4,0
+NAT + MSE,93,0,5,1
+NAT + MSE,94,0,5,1
+NAT + MSE,95,0,5,1
+NAT + MSE,96,0,6,1
+NAT + MSE,97,0,5,1
+NAT + MSE,98,0,6,1
+NAT + MSE,99,0,5,1
+NAT + MSE,100,0,5,1
+NAT + MSE,101,0,6,1
+NAT + MSE,102,1,5,0
+NAT + MSE,103,0,5,1
+NAT + MSE,104,0,5,1
+NAT + MSE,105,0,5,1
+NAT + MSE,106,0,5,1
+NAT + MSE,107,0,5,1
+NAT + MSE,108,0,6,1
+NAT + MSE,109,0,5,1
+NAT + MSE,110,0,7,1
+NAT + MSE,111,1,7,0
+NAT + MSE,112,1,7,0
+NAT + MSE,113,0,6,1
+NAT + MSE,114,0,6,1
+NAT + MSE,115,0,6,1
+NAT + MSE,116,1,5,0
+NAT + MSE,117,0,5,1
+NAT + MSE,118,0,6,1
+NAT + MSE,119,0,5,1
+NAT + MSE,120,2,5,0
+NAT + MSE,121,1,6,0
+NAT + MSE,122,1,5,0
+NAT + MSE,123,0,6,1
+NAT + MSE,124,0,5,1
+NAT + MSE,125,0,6,1
+NAT + MSE,126,0,5,1
+NAT + MSE,127,0,6,1
+NAT + MSE,128,1,6,0
+NAT + MSE,129,0,5,1
+NAT + MSE,130,1,6,0
+NAT + MSE,131,0,6,1
+NAT + MSE,132,0,6,1
+NAT + MSE,133,1,5,0
+NAT + MSE,134,0,5,1
+NAT + MSE,135,0,5,1
+NAT + MSE,136,2,5,0
+NAT + MSE,137,0,7,1
+NAT + MSE,138,0,6,1
+NAT + MSE,139,1,6,0
+NAT + MSE,140,0,5,1
+NAT + MSE,141,0,5,1
+NAT + MSE,142,1,6,0
+NAT + MSE,143,1,5,0
+NAT + MSE,144,1,5,0
+NAT + MSE,145,0,6,1
+NAT + MSE,146,1,7,0
+NAT + MSE,147,1,7,0
+NAT + MSE,148,1,6,0
+NAT + MSE,149,0,5,1
+NAT + MSE,150,0,5,1
+NAT + MSE,151,0,6,1
+NAT + MSE,152,0,5,1
+NAT + MSE,153,1,6,0
+NAT + MSE,154,0,6,1
+NAT + MSE,155,0,5,1
+NAT + MSE,156,0,5,1
+NAT + MSE,157,0,5,1
+NAT + MSE,158,1,5,0
+NAT + MSE,159,2,6,0
+NAT + MSE,160,0,5,1
+NAT + MSE,161,0,5,1
+NAT + MSE,162,0,5,1
+NAT + MSE,163,1,5,0
+NAT + MSE,164,0,6,1
+NAT + MSE,165,0,6,1
+NAT + MSE,166,0,6,1
+NAT + MSE,167,0,6,1
+NAT + MSE,168,0,6,1
+NAT + MSE,169,0,6,1
+NAT + MSE,170,0,6,1
+NAT + MSE,171,2,5,0
+NAT + MSE,172,0,6,1
+NAT + MSE,173,0,5,1
+NAT + MSE,174,1,5,0
+NAT + MSE,175,0,5,1
+NAT + MSE,176,0,5,1
+NAT + MSE,177,0,5,1
+NAT + MSE,178,0,5,1
+NAT + MSE,179,1,5,0
+NAT + MSE,180,0,7,1
+NAT + MSE,181,1,6,0
+NAT + MSE,182,0,5,1
+NAT + MSE,183,0,6,1
+NAT + MSE,184,0,6,1
+NAT + MSE,185,0,6,1
+NAT + MSE,186,0,5,1
+NAT + MSE,187,0,7,1
+NAT + MSE,188,0,6,1
+NAT + MSE,189,1,6,0
+NAT + MSE,190,1,6,0
+NAT + MSE,191,2,6,0
+Diffusion (CFG 1),0,4,4,0
+Diffusion (CFG 1),1,3,4,0
+Diffusion (CFG 1),2,4,4,0
+Diffusion (CFG 1),3,4,4,0
+Diffusion (CFG 1),4,3,4,0
+Diffusion (CFG 1),5,4,4,0
+Diffusion (CFG 1),6,4,4,0
+Diffusion (CFG 1),7,4,4,0
+Diffusion (CFG 1),8,4,4,0
+Diffusion (CFG 1),9,4,4,0
+Diffusion (CFG 1),10,4,4,0
+Diffusion (CFG 1),11,5,5,0
+Diffusion (CFG 1),12,5,5,0
+Diffusion (CFG 1),13,3,4,0
+Diffusion (CFG 1),14,5,5,0
+Diffusion (CFG 1),15,5,5,0
+Diffusion (CFG 1),16,6,6,0
+Diffusion (CFG 1),17,5,5,0
+Diffusion (CFG 1),18,5,5,0
+Diffusion (CFG 1),19,5,5,0
+Diffusion (CFG 1),20,4,5,0
+Diffusion (CFG 1),21,4,5,0
+Diffusion (CFG 1),22,5,5,0
+Diffusion (CFG 1),23,5,5,0
+Diffusion (CFG 1),24,5,5,0
+Diffusion (CFG 1),25,6,6,0
+Diffusion (CFG 1),26,5,5,0
+Diffusion (CFG 1),27,5,6,0
+Diffusion (CFG 1),28,6,6,0
+Diffusion (CFG 1),29,5,5,0
+Diffusion (CFG 1),30,5,5,0
+Diffusion (CFG 1),31,5,5,0
+Diffusion (CFG 1),32,4,5,0
+Diffusion (CFG 1),33,5,5,0
+Diffusion (CFG 1),34,4,5,0
+Diffusion (CFG 1),35,6,6,0
+Diffusion (CFG 1),36,6,6,0
+Diffusion (CFG 1),37,5,5,0
+Diffusion (CFG 1),38,5,5,0
+Diffusion (CFG 1),39,5,6,0
+Diffusion (CFG 1),40,4,5,0
+Diffusion (CFG 1),41,9,5,0
+Diffusion (CFG 1),42,7,5,0
+Diffusion (CFG 1),43,5,5,0
+Diffusion (CFG 1),44,7,7,0
+Diffusion (CFG 1),45,4,4,0
+Diffusion (CFG 1),46,3,3,0
+Diffusion (CFG 1),47,3,3,0
+Diffusion (CFG 1),48,3,4,0
+Diffusion (CFG 1),49,3,4,0
+Diffusion (CFG 1),50,3,3,0
+Diffusion (CFG 1),51,3,4,0
+Diffusion (CFG 1),52,3,4,0
+Diffusion (CFG 1),53,3,4,0
+Diffusion (CFG 1),54,4,4,0
+Diffusion (CFG 1),55,4,4,0
+Diffusion (CFG 1),56,5,5,0
+Diffusion (CFG 1),57,5,5,0
+Diffusion (CFG 1),58,5,5,0
+Diffusion (CFG 1),59,3,4,0
+Diffusion (CFG 1),60,3,4,0
+Diffusion (CFG 1),61,4,4,0
+Diffusion (CFG 1),62,4,4,0
+Diffusion (CFG 1),63,4,4,0
+Diffusion (CFG 1),64,4,5,0
+Diffusion (CFG 1),65,4,5,0
+Diffusion (CFG 1),66,5,5,0
+Diffusion (CFG 1),67,4,4,0
+Diffusion (CFG 1),68,4,4,0
+Diffusion (CFG 1),69,4,4,0
+Diffusion (CFG 1),70,4,4,0
+Diffusion (CFG 1),71,4,4,0
+Diffusion (CFG 1),72,5,5,0
+Diffusion (CFG 1),73,4,5,0
+Diffusion (CFG 1),74,4,5,0
+Diffusion (CFG 1),75,5,5,0
+Diffusion (CFG 1),76,3,4,0
+Diffusion (CFG 1),77,5,5,0
+Diffusion (CFG 1),78,3,4,0
+Diffusion (CFG 1),79,6,6,0
+Diffusion (CFG 1),80,4,5,0
+Diffusion (CFG 1),81,5,5,0
+Diffusion (CFG 1),82,4,4,0
+Diffusion (CFG 1),83,4,4,0
+Diffusion (CFG 1),84,4,4,0
+Diffusion (CFG 1),85,5,5,0
+Diffusion (CFG 1),86,4,4,0
+Diffusion (CFG 1),87,4,4,0
+Diffusion (CFG 1),88,4,4,0
+Diffusion (CFG 1),89,4,4,0
+Diffusion (CFG 1),90,4,4,0
+Diffusion (CFG 1),91,4,4,0
+Diffusion (CFG 1),92,4,4,0
+Diffusion (CFG 1),93,4,5,0
+Diffusion (CFG 1),94,5,5,0
+Diffusion (CFG 1),95,6,5,0
+Diffusion (CFG 1),96,6,6,0
+Diffusion (CFG 1),97,5,5,0
+Diffusion (CFG 1),98,6,6,0
+Diffusion (CFG 1),99,5,5,0
+Diffusion (CFG 1),100,4,5,0
+Diffusion (CFG 1),101,5,6,0
+Diffusion (CFG 1),102,5,5,0
+Diffusion (CFG 1),103,4,5,0
+Diffusion (CFG 1),104,5,5,0
+Diffusion (CFG 1),105,5,5,0
+Diffusion (CFG 1),106,4,5,0
+Diffusion (CFG 1),107,5,5,0
+Diffusion (CFG 1),108,5,6,0
+Diffusion (CFG 1),109,5,5,0
+Diffusion (CFG 1),110,7,7,0
+Diffusion (CFG 1),111,7,7,0
+Diffusion (CFG 1),112,7,7,0
+Diffusion (CFG 1),113,6,6,0
+Diffusion (CFG 1),114,6,6,0
+Diffusion (CFG 1),115,5,6,0
+Diffusion (CFG 1),116,5,5,0
+Diffusion (CFG 1),117,5,5,0
+Diffusion (CFG 1),118,5,6,0
+Diffusion (CFG 1),119,5,5,0
+Diffusion (CFG 1),120,5,5,0
+Diffusion (CFG 1),121,6,6,0
+Diffusion (CFG 1),122,5,5,0
+Diffusion (CFG 1),123,4,6,0
+Diffusion (CFG 1),124,5,5,0
+Diffusion (CFG 1),125,6,6,0
+Diffusion (CFG 1),126,5,5,0
+Diffusion (CFG 1),127,5,6,0
+Diffusion (CFG 1),128,6,6,0
+Diffusion (CFG 1),129,4,5,0
+Diffusion (CFG 1),130,5,6,0
+Diffusion (CFG 1),131,5,6,0
+Diffusion (CFG 1),132,5,6,0
+Diffusion (CFG 1),133,5,5,0
+Diffusion (CFG 1),134,5,5,0
+Diffusion (CFG 1),135,5,5,0
+Diffusion (CFG 1),136,5,5,0
+Diffusion (CFG 1),137,6,7,0
+Diffusion (CFG 1),138,5,6,0
+Diffusion (CFG 1),139,6,6,0
+Diffusion (CFG 1),140,5,5,0
+Diffusion (CFG 1),141,5,5,0
+Diffusion (CFG 1),142,6,6,0
+Diffusion (CFG 1),143,5,5,0
+Diffusion (CFG 1),144,5,5,0
+Diffusion (CFG 1),145,6,6,0
+Diffusion (CFG 1),146,6,7,0
+Diffusion (CFG 1),147,7,7,0
+Diffusion (CFG 1),148,6,6,0
+Diffusion (CFG 1),149,5,5,0
+Diffusion (CFG 1),150,5,5,0
+Diffusion (CFG 1),151,6,6,0
+Diffusion (CFG 1),152,5,5,0
+Diffusion (CFG 1),153,4,6,0
+Diffusion (CFG 1),154,6,6,0
+Diffusion (CFG 1),155,5,5,0
+Diffusion (CFG 1),156,5,5,0
+Diffusion (CFG 1),157,5,5,0
+Diffusion (CFG 1),158,5,5,0
+Diffusion (CFG 1),159,6,6,0
+Diffusion (CFG 1),160,5,5,0
+Diffusion (CFG 1),161,5,5,0
+Diffusion (CFG 1),162,5,5,0
+Diffusion (CFG 1),163,5,5,0
+Diffusion (CFG 1),164,6,6,0
+Diffusion (CFG 1),165,6,6,0
+Diffusion (CFG 1),166,6,6,0
+Diffusion (CFG 1),167,6,6,0
+Diffusion (CFG 1),168,5,6,0
+Diffusion (CFG 1),169,5,6,0
+Diffusion (CFG 1),170,4,6,0
+Diffusion (CFG 1),171,5,5,0
+Diffusion (CFG 1),172,4,6,0
+Diffusion (CFG 1),173,6,5,0
+Diffusion (CFG 1),174,6,5,0
+Diffusion (CFG 1),175,9,5,0
+Diffusion (CFG 1),176,6,5,0
+Diffusion (CFG 1),177,6,5,0
+Diffusion (CFG 1),178,5,5,0
+Diffusion (CFG 1),179,3,5,0
+Diffusion (CFG 1),180,8,7,0
+Diffusion (CFG 1),181,6,6,0
+Diffusion (CFG 1),182,5,5,0
+Diffusion (CFG 1),183,9,6,0
+Diffusion (CFG 1),184,6,6,0
+Diffusion (CFG 1),185,6,6,0
+Diffusion (CFG 1),186,3,5,0
+Diffusion (CFG 1),187,7,7,0
+Diffusion (CFG 1),188,6,6,0
+Diffusion (CFG 1),189,8,6,0
+Diffusion (CFG 1),190,5,6,0
+Diffusion (CFG 1),191,8,6,0
+Diffusion (CFG 2.5),0,3,4,0
+Diffusion (CFG 2.5),1,3,4,0
+Diffusion (CFG 2.5),2,3,4,0
+Diffusion (CFG 2.5),3,4,4,0
+Diffusion (CFG 2.5),4,5,4,0
+Diffusion (CFG 2.5),5,4,4,0
+Diffusion (CFG 2.5),6,3,4,0
+Diffusion (CFG 2.5),7,3,4,0
+Diffusion (CFG 2.5),8,4,4,0
+Diffusion (CFG 2.5),9,4,4,0
+Diffusion (CFG 2.5),10,4,4,0
+Diffusion (CFG 2.5),11,4,5,0
+Diffusion (CFG 2.5),12,5,5,0
+Diffusion (CFG 2.5),13,4,4,0
+Diffusion (CFG 2.5),14,4,5,0
+Diffusion (CFG 2.5),15,5,5,0
+Diffusion (CFG 2.5),16,5,6,0
+Diffusion (CFG 2.5),17,4,5,0
+Diffusion (CFG 2.5),18,5,5,0
+Diffusion (CFG 2.5),19,3,5,0
+Diffusion (CFG 2.5),20,4,5,0
+Diffusion (CFG 2.5),21,5,5,0
+Diffusion (CFG 2.5),22,5,5,0
+Diffusion (CFG 2.5),23,5,5,0
+Diffusion (CFG 2.5),24,5,5,0
+Diffusion (CFG 2.5),25,3,6,0
+Diffusion (CFG 2.5),26,4,5,0
+Diffusion (CFG 2.5),27,4,6,0
+Diffusion (CFG 2.5),28,3,6,0
+Diffusion (CFG 2.5),29,3,5,0
+Diffusion (CFG 2.5),30,3,5,0
+Diffusion (CFG 2.5),31,5,5,0
+Diffusion (CFG 2.5),32,3,5,0
+Diffusion (CFG 2.5),33,3,5,0
+Diffusion (CFG 2.5),34,4,5,0
+Diffusion (CFG 2.5),35,6,6,0
+Diffusion (CFG 2.5),36,5,6,0
+Diffusion (CFG 2.5),37,3,5,0
+Diffusion (CFG 2.5),38,4,5,0
+Diffusion (CFG 2.5),39,6,6,0
+Diffusion (CFG 2.5),40,4,5,0
+Diffusion (CFG 2.5),41,5,5,0
+Diffusion (CFG 2.5),42,3,5,0
+Diffusion (CFG 2.5),43,4,5,0
+Diffusion (CFG 2.5),44,7,7,0
+Diffusion (CFG 2.5),45,6,4,0
+Diffusion (CFG 2.5),46,2,3,0
+Diffusion (CFG 2.5),47,2,3,0
+Diffusion (CFG 2.5),48,3,4,0
+Diffusion (CFG 2.5),49,4,4,0
+Diffusion (CFG 2.5),50,3,3,0
+Diffusion (CFG 2.5),51,3,4,0
+Diffusion (CFG 2.5),52,3,4,0
+Diffusion (CFG 2.5),53,3,4,0
+Diffusion (CFG 2.5),54,3,4,0
+Diffusion (CFG 2.5),55,4,4,0
+Diffusion (CFG 2.5),56,5,5,0
+Diffusion (CFG 2.5),57,4,5,0
+Diffusion (CFG 2.5),58,4,5,0
+Diffusion (CFG 2.5),59,3,4,0
+Diffusion (CFG 2.5),60,3,4,0
+Diffusion (CFG 2.5),61,2,4,0
+Diffusion (CFG 2.5),62,3,4,0
+Diffusion (CFG 2.5),63,3,4,0
+Diffusion (CFG 2.5),64,5,5,0
+Diffusion (CFG 2.5),65,5,5,0
+Diffusion (CFG 2.5),66,3,5,0
+Diffusion (CFG 2.5),67,3,4,0
+Diffusion (CFG 2.5),68,4,4,0
+Diffusion (CFG 2.5),69,3,4,0
+Diffusion (CFG 2.5),70,4,4,0
+Diffusion (CFG 2.5),71,2,4,0
+Diffusion (CFG 2.5),72,3,5,0
+Diffusion (CFG 2.5),73,4,5,0
+Diffusion (CFG 2.5),74,5,5,0
+Diffusion (CFG 2.5),75,4,5,0
+Diffusion (CFG 2.5),76,3,4,0
+Diffusion (CFG 2.5),77,4,5,0
+Diffusion (CFG 2.5),78,3,4,0
+Diffusion (CFG 2.5),79,5,6,0
+Diffusion (CFG 2.5),80,7,5,0
+Diffusion (CFG 2.5),81,5,5,0
+Diffusion (CFG 2.5),82,4,4,0
+Diffusion (CFG 2.5),83,4,4,0
+Diffusion (CFG 2.5),84,4,4,0
+Diffusion (CFG 2.5),85,5,5,0
+Diffusion (CFG 2.5),86,4,4,0
+Diffusion (CFG 2.5),87,2,4,0
+Diffusion (CFG 2.5),88,3,4,0
+Diffusion (CFG 2.5),89,3,4,0
+Diffusion (CFG 2.5),90,4,4,0
+Diffusion (CFG 2.5),91,4,4,0
+Diffusion (CFG 2.5),92,5,4,0
+Diffusion (CFG 2.5),93,4,5,0
+Diffusion (CFG 2.5),94,5,5,0
+Diffusion (CFG 2.5),95,4,5,0
+Diffusion (CFG 2.5),96,6,6,0
+Diffusion (CFG 2.5),97,3,5,0
+Diffusion (CFG 2.5),98,5,6,0
+Diffusion (CFG 2.5),99,5,5,0
+Diffusion (CFG 2.5),100,5,5,0
+Diffusion (CFG 2.5),101,5,6,0
+Diffusion (CFG 2.5),102,5,5,0
+Diffusion (CFG 2.5),103,3,5,0
+Diffusion (CFG 2.5),104,5,5,0
+Diffusion (CFG 2.5),105,4,5,0
+Diffusion (CFG 2.5),106,4,5,0
+Diffusion (CFG 2.5),107,5,5,0
+Diffusion (CFG 2.5),108,6,6,0
+Diffusion (CFG 2.5),109,5,5,0
+Diffusion (CFG 2.5),110,7,7,0
+Diffusion (CFG 2.5),111,7,7,0
+Diffusion (CFG 2.5),112,7,7,0
+Diffusion (CFG 2.5),113,6,6,0
+Diffusion (CFG 2.5),114,5,6,0
+Diffusion (CFG 2.5),115,6,6,0
+Diffusion (CFG 2.5),116,5,5,0
+Diffusion (CFG 2.5),117,5,5,0
+Diffusion (CFG 2.5),118,6,6,0
+Diffusion (CFG 2.5),119,5,5,0
+Diffusion (CFG 2.5),120,5,5,0
+Diffusion (CFG 2.5),121,6,6,0
+Diffusion (CFG 2.5),122,5,5,0
+Diffusion (CFG 2.5),123,3,6,0
+Diffusion (CFG 2.5),124,5,5,0
+Diffusion (CFG 2.5),125,6,6,0
+Diffusion (CFG 2.5),126,5,5,0
+Diffusion (CFG 2.5),127,5,6,0
+Diffusion (CFG 2.5),128,5,6,0
+Diffusion (CFG 2.5),129,4,5,0
+Diffusion (CFG 2.5),130,4,6,0
+Diffusion (CFG 2.5),131,4,6,0
+Diffusion (CFG 2.5),132,4,6,0
+Diffusion (CFG 2.5),133,5,5,0
+Diffusion (CFG 2.5),134,4,5,0
+Diffusion (CFG 2.5),135,3,5,0
+Diffusion (CFG 2.5),136,5,5,0
+Diffusion (CFG 2.5),137,7,7,0
+Diffusion (CFG 2.5),138,3,6,0
+Diffusion (CFG 2.5),139,6,6,0
+Diffusion (CFG 2.5),140,5,5,0
+Diffusion (CFG 2.5),141,5,5,0
+Diffusion (CFG 2.5),142,6,6,0
+Diffusion (CFG 2.5),143,5,5,0
+Diffusion (CFG 2.5),144,5,5,0
+Diffusion (CFG 2.5),145,6,6,0
+Diffusion (CFG 2.5),146,6,7,0
+Diffusion (CFG 2.5),147,7,7,0
+Diffusion (CFG 2.5),148,5,6,0
+Diffusion (CFG 2.5),149,3,5,0
+Diffusion (CFG 2.5),150,5,5,0
+Diffusion (CFG 2.5),151,6,6,0
+Diffusion (CFG 2.5),152,4,5,0
+Diffusion (CFG 2.5),153,5,6,0
+Diffusion (CFG 2.5),154,4,6,0
+Diffusion (CFG 2.5),155,5,5,0
+Diffusion (CFG 2.5),156,5,5,0
+Diffusion (CFG 2.5),157,5,5,0
+Diffusion (CFG 2.5),158,3,5,0
+Diffusion (CFG 2.5),159,5,6,0
+Diffusion (CFG 2.5),160,5,5,0
+Diffusion (CFG 2.5),161,5,5,0
+Diffusion (CFG 2.5),162,4,5,0
+Diffusion (CFG 2.5),163,5,5,0
+Diffusion (CFG 2.5),164,4,6,0
+Diffusion (CFG 2.5),165,6,6,0
+Diffusion (CFG 2.5),166,6,6,0
+Diffusion (CFG 2.5),167,6,6,0
+Diffusion (CFG 2.5),168,5,6,0
+Diffusion (CFG 2.5),169,6,6,0
+Diffusion (CFG 2.5),170,4,6,0
+Diffusion (CFG 2.5),171,6,5,0
+Diffusion (CFG 2.5),172,4,6,0
+Diffusion (CFG 2.5),173,5,5,0
+Diffusion (CFG 2.5),174,5,5,0
+Diffusion (CFG 2.5),175,5,5,0
+Diffusion (CFG 2.5),176,5,5,0
+Diffusion (CFG 2.5),177,7,5,0
+Diffusion (CFG 2.5),178,5,5,0
+Diffusion (CFG 2.5),179,3,5,0
+Diffusion (CFG 2.5),180,6,7,0
+Diffusion (CFG 2.5),181,4,6,0
+Diffusion (CFG 2.5),182,5,5,0
+Diffusion (CFG 2.5),183,4,6,0
+Diffusion (CFG 2.5),184,5,6,0
+Diffusion (CFG 2.5),185,5,6,0
+Diffusion (CFG 2.5),186,5,5,0
+Diffusion (CFG 2.5),187,7,7,0
+Diffusion (CFG 2.5),188,5,6,0
+Diffusion (CFG 2.5),189,4,6,0
+Diffusion (CFG 2.5),190,6,6,0
+Diffusion (CFG 2.5),191,5,6,0
+Diffusion (CFG 4),0,3,4,0
+Diffusion (CFG 4),1,4,4,0
+Diffusion (CFG 4),2,3,4,0
+Diffusion (CFG 4),3,3,4,0
+Diffusion (CFG 4),4,2,4,0
+Diffusion (CFG 4),5,4,4,0
+Diffusion (CFG 4),6,3,4,0
+Diffusion (CFG 4),7,4,4,0
+Diffusion (CFG 4),8,4,4,0
+Diffusion (CFG 4),9,4,4,0
+Diffusion (CFG 4),10,4,4,0
+Diffusion (CFG 4),11,4,5,0
+Diffusion (CFG 4),12,4,5,0
+Diffusion (CFG 4),13,3,4,0
+Diffusion (CFG 4),14,4,5,0
+Diffusion (CFG 4),15,5,5,0
+Diffusion (CFG 4),16,5,6,0
+Diffusion (CFG 4),17,5,5,0
+Diffusion (CFG 4),18,4,5,0
+Diffusion (CFG 4),19,3,5,0
+Diffusion (CFG 4),20,4,5,0
+Diffusion (CFG 4),21,5,5,0
+Diffusion (CFG 4),22,5,5,0
+Diffusion (CFG 4),23,4,5,0
+Diffusion (CFG 4),24,4,5,0
+Diffusion (CFG 4),25,3,6,0
+Diffusion (CFG 4),26,5,5,0
+Diffusion (CFG 4),27,4,6,0
+Diffusion (CFG 4),28,5,6,0
+Diffusion (CFG 4),29,3,5,0
+Diffusion (CFG 4),30,3,5,0
+Diffusion (CFG 4),31,4,5,0
+Diffusion (CFG 4),32,3,5,0
+Diffusion (CFG 4),33,4,5,0
+Diffusion (CFG 4),34,4,5,0
+Diffusion (CFG 4),35,6,6,0
+Diffusion (CFG 4),36,6,6,0
+Diffusion (CFG 4),37,4,5,0
+Diffusion (CFG 4),38,3,5,0
+Diffusion (CFG 4),39,5,6,0
+Diffusion (CFG 4),40,3,5,0
+Diffusion (CFG 4),41,4,5,0
+Diffusion (CFG 4),42,5,5,0
+Diffusion (CFG 4),43,4,5,0
+Diffusion (CFG 4),44,5,7,0
+Diffusion (CFG 4),45,3,4,0
+Diffusion (CFG 4),46,1,3,0
+Diffusion (CFG 4),47,2,3,0
+Diffusion (CFG 4),48,4,4,0
+Diffusion (CFG 4),49,3,4,0
+Diffusion (CFG 4),50,3,3,0
+Diffusion (CFG 4),51,3,4,0
+Diffusion (CFG 4),52,3,4,0
+Diffusion (CFG 4),53,3,4,0
+Diffusion (CFG 4),54,3,4,0
+Diffusion (CFG 4),55,3,4,0
+Diffusion (CFG 4),56,4,5,0
+Diffusion (CFG 4),57,3,5,0
+Diffusion (CFG 4),58,5,5,0
+Diffusion (CFG 4),59,3,4,0
+Diffusion (CFG 4),60,4,4,0
+Diffusion (CFG 4),61,4,4,0
+Diffusion (CFG 4),62,4,4,0
+Diffusion (CFG 4),63,3,4,0
+Diffusion (CFG 4),64,4,5,0
+Diffusion (CFG 4),65,4,5,0
+Diffusion (CFG 4),66,3,5,0
+Diffusion (CFG 4),67,3,4,0
+Diffusion (CFG 4),68,4,4,0
+Diffusion (CFG 4),69,4,4,0
+Diffusion (CFG 4),70,3,4,0
+Diffusion (CFG 4),71,3,4,0
+Diffusion (CFG 4),72,4,5,0
+Diffusion (CFG 4),73,4,5,0
+Diffusion (CFG 4),74,4,5,0
+Diffusion (CFG 4),75,4,5,0
+Diffusion (CFG 4),76,3,4,0
+Diffusion (CFG 4),77,4,5,0
+Diffusion (CFG 4),78,3,4,0
+Diffusion (CFG 4),79,4,6,0
+Diffusion (CFG 4),80,3,5,0
+Diffusion (CFG 4),81,5,5,0
+Diffusion (CFG 4),82,4,4,0
+Diffusion (CFG 4),83,4,4,0
+Diffusion (CFG 4),84,4,4,0
+Diffusion (CFG 4),85,5,5,0
+Diffusion (CFG 4),86,2,4,0
+Diffusion (CFG 4),87,2,4,0
+Diffusion (CFG 4),88,3,4,0
+Diffusion (CFG 4),89,4,4,0
+Diffusion (CFG 4),90,3,4,0
+Diffusion (CFG 4),91,4,4,0
+Diffusion (CFG 4),92,4,4,0
+Diffusion (CFG 4),93,5,5,0
+Diffusion (CFG 4),94,5,5,0
+Diffusion (CFG 4),95,5,5,0
+Diffusion (CFG 4),96,4,6,0
+Diffusion (CFG 4),97,5,5,0
+Diffusion (CFG 4),98,5,6,0
+Diffusion (CFG 4),99,5,5,0
+Diffusion (CFG 4),100,5,5,0
+Diffusion (CFG 4),101,6,6,0
+Diffusion (CFG 4),102,5,5,0
+Diffusion (CFG 4),103,4,5,0
+Diffusion (CFG 4),104,5,5,0
+Diffusion (CFG 4),105,3,5,0
+Diffusion (CFG 4),106,4,5,0
+Diffusion (CFG 4),107,3,5,0
+Diffusion (CFG 4),108,6,6,0
+Diffusion (CFG 4),109,5,5,0
+Diffusion (CFG 4),110,7,7,0
+Diffusion (CFG 4),111,6,7,0
+Diffusion (CFG 4),112,7,7,0
+Diffusion (CFG 4),113,5,6,0
+Diffusion (CFG 4),114,4,6,0
+Diffusion (CFG 4),115,5,6,0
+Diffusion (CFG 4),116,5,5,0
+Diffusion (CFG 4),117,5,5,0
+Diffusion (CFG 4),118,4,6,0
+Diffusion (CFG 4),119,4,5,0
+Diffusion (CFG 4),120,5,5,0
+Diffusion (CFG 4),121,6,6,0
+Diffusion (CFG 4),122,5,5,0
+Diffusion (CFG 4),123,4,6,0
+Diffusion (CFG 4),124,3,5,0
+Diffusion (CFG 4),125,6,6,0
+Diffusion (CFG 4),126,5,5,0
+Diffusion (CFG 4),127,4,6,0
+Diffusion (CFG 4),128,6,6,0
+Diffusion (CFG 4),129,3,5,0
+Diffusion (CFG 4),130,3,6,0
+Diffusion (CFG 4),131,4,6,0
+Diffusion (CFG 4),132,4,6,0
+Diffusion (CFG 4),133,3,5,0
+Diffusion (CFG 4),134,5,5,0
+Diffusion (CFG 4),135,4,5,0
+Diffusion (CFG 4),136,5,5,0
+Diffusion (CFG 4),137,7,7,0
+Diffusion (CFG 4),138,3,6,0
+Diffusion (CFG 4),139,6,6,0
+Diffusion (CFG 4),140,5,5,0
+Diffusion (CFG 4),141,5,5,0
+Diffusion (CFG 4),142,5,6,0
+Diffusion (CFG 4),143,5,5,0
+Diffusion (CFG 4),144,5,5,0
+Diffusion (CFG 4),145,6,6,0
+Diffusion (CFG 4),146,6,7,0
+Diffusion (CFG 4),147,7,7,0
+Diffusion (CFG 4),148,4,6,0
+Diffusion (CFG 4),149,3,5,0
+Diffusion (CFG 4),150,2,5,0
+Diffusion (CFG 4),151,4,6,0
+Diffusion (CFG 4),152,3,5,0
+Diffusion (CFG 4),153,4,6,0
+Diffusion (CFG 4),154,5,6,0
+Diffusion (CFG 4),155,3,5,0
+Diffusion (CFG 4),156,3,5,0
+Diffusion (CFG 4),157,3,5,0
+Diffusion (CFG 4),158,5,5,0
+Diffusion (CFG 4),159,5,6,0
+Diffusion (CFG 4),160,4,5,0
+Diffusion (CFG 4),161,5,5,0
+Diffusion (CFG 4),162,4,5,0
+Diffusion (CFG 4),163,4,5,0
+Diffusion (CFG 4),164,4,6,0
+Diffusion (CFG 4),165,5,6,0
+Diffusion (CFG 4),166,6,6,0
+Diffusion (CFG 4),167,6,6,0
+Diffusion (CFG 4),168,5,6,0
+Diffusion (CFG 4),169,4,6,0
+Diffusion (CFG 4),170,4,6,0
+Diffusion (CFG 4),171,4,5,0
+Diffusion (CFG 4),172,4,6,0
+Diffusion (CFG 4),173,3,5,0
+Diffusion (CFG 4),174,5,5,0
+Diffusion (CFG 4),175,4,5,0
+Diffusion (CFG 4),176,5,5,0
+Diffusion (CFG 4),177,4,5,0
+Diffusion (CFG 4),178,3,5,0
+Diffusion (CFG 4),179,4,5,0
+Diffusion (CFG 4),180,7,7,0
+Diffusion (CFG 4),181,5,6,0
+Diffusion (CFG 4),182,5,5,0
+Diffusion (CFG 4),183,5,6,0
+Diffusion (CFG 4),184,5,6,0
+Diffusion (CFG 4),185,5,6,0
+Diffusion (CFG 4),186,4,5,0
+Diffusion (CFG 4),187,5,7,0
+Diffusion (CFG 4),188,5,6,0
+Diffusion (CFG 4),189,5,6,0
+Diffusion (CFG 4),190,6,6,0
+Diffusion (CFG 4),191,4,6,0
+"Real test poses, smoothed (7-frame)",0,0,4,1
+"Real test poses, smoothed (7-frame)",1,0,4,1
+"Real test poses, smoothed (7-frame)",2,0,4,1
+"Real test poses, smoothed (7-frame)",3,0,4,1
+"Real test poses, smoothed (7-frame)",4,0,4,1
+"Real test poses, smoothed (7-frame)",5,0,4,1
+"Real test poses, smoothed (7-frame)",6,0,4,1
+"Real test poses, smoothed (7-frame)",7,1,4,0
+"Real test poses, smoothed (7-frame)",8,1,4,0
+"Real test poses, smoothed (7-frame)",9,0,4,1
+"Real test poses, smoothed (7-frame)",10,0,4,1
+"Real test poses, smoothed (7-frame)",11,0,5,1
+"Real test poses, smoothed (7-frame)",12,1,5,0
+"Real test poses, smoothed (7-frame)",13,0,4,1
+"Real test poses, smoothed (7-frame)",14,0,5,1
+"Real test poses, smoothed (7-frame)",15,0,5,1
+"Real test poses, smoothed (7-frame)",16,0,6,1
+"Real test poses, smoothed (7-frame)",17,0,5,1
+"Real test poses, smoothed (7-frame)",18,0,5,1
+"Real test poses, smoothed (7-frame)",19,0,5,1
+"Real test poses, smoothed (7-frame)",20,1,5,0
+"Real test poses, smoothed (7-frame)",21,0,5,1
+"Real test poses, smoothed (7-frame)",22,0,5,1
+"Real test poses, smoothed (7-frame)",23,0,5,1
+"Real test poses, smoothed (7-frame)",24,1,5,0
+"Real test poses, smoothed (7-frame)",25,0,6,1
+"Real test poses, smoothed (7-frame)",26,0,5,1
+"Real test poses, smoothed (7-frame)",27,0,6,1
+"Real test poses, smoothed (7-frame)",28,0,6,1
+"Real test poses, smoothed (7-frame)",29,1,5,0
+"Real test poses, smoothed (7-frame)",30,0,5,1
+"Real test poses, smoothed (7-frame)",31,0,5,1
+"Real test poses, smoothed (7-frame)",32,0,5,1
+"Real test poses, smoothed (7-frame)",33,0,5,1
+"Real test poses, smoothed (7-frame)",34,1,5,0
+"Real test poses, smoothed (7-frame)",35,0,6,1
+"Real test poses, smoothed (7-frame)",36,0,6,1
+"Real test poses, smoothed (7-frame)",37,0,5,1
+"Real test poses, smoothed (7-frame)",38,0,5,1
+"Real test poses, smoothed (7-frame)",39,2,6,0
+"Real test poses, smoothed (7-frame)",40,1,5,0
+"Real test poses, smoothed (7-frame)",41,0,5,1
+"Real test poses, smoothed (7-frame)",42,0,5,1
+"Real test poses, smoothed (7-frame)",43,0,5,1
+"Real test poses, smoothed (7-frame)",44,0,7,1
+"Real test poses, smoothed (7-frame)",45,1,4,0
+"Real test poses, smoothed (7-frame)",46,0,3,1
+"Real test poses, smoothed (7-frame)",47,0,3,1
+"Real test poses, smoothed (7-frame)",48,0,4,1
+"Real test poses, smoothed (7-frame)",49,0,4,1
+"Real test poses, smoothed (7-frame)",50,0,3,1
+"Real test poses, smoothed (7-frame)",51,0,4,1
+"Real test poses, smoothed (7-frame)",52,1,4,0
+"Real test poses, smoothed (7-frame)",53,0,4,1
+"Real test poses, smoothed (7-frame)",54,0,4,1
+"Real test poses, smoothed (7-frame)",55,0,4,1
+"Real test poses, smoothed (7-frame)",56,0,5,1
+"Real test poses, smoothed (7-frame)",57,0,5,1
+"Real test poses, smoothed (7-frame)",58,0,5,1
+"Real test poses, smoothed (7-frame)",59,0,4,1
+"Real test poses, smoothed (7-frame)",60,1,4,0
+"Real test poses, smoothed (7-frame)",61,1,4,0
+"Real test poses, smoothed (7-frame)",62,0,4,1
+"Real test poses, smoothed (7-frame)",63,0,4,1
+"Real test poses, smoothed (7-frame)",64,0,5,1
+"Real test poses, smoothed (7-frame)",65,0,5,1
+"Real test poses, smoothed (7-frame)",66,0,5,1
+"Real test poses, smoothed (7-frame)",67,0,4,1
+"Real test poses, smoothed (7-frame)",68,0,4,1
+"Real test poses, smoothed (7-frame)",69,0,4,1
+"Real test poses, smoothed (7-frame)",70,0,4,1
+"Real test poses, smoothed (7-frame)",71,0,4,1
+"Real test poses, smoothed (7-frame)",72,0,5,1
+"Real test poses, smoothed (7-frame)",73,0,5,1
+"Real test poses, smoothed (7-frame)",74,0,5,1
+"Real test poses, smoothed (7-frame)",75,0,5,1
+"Real test poses, smoothed (7-frame)",76,0,4,1
+"Real test poses, smoothed (7-frame)",77,0,5,1
+"Real test poses, smoothed (7-frame)",78,1,4,0
+"Real test poses, smoothed (7-frame)",79,0,6,1
+"Real test poses, smoothed (7-frame)",80,1,5,0
+"Real test poses, smoothed (7-frame)",81,0,5,1
+"Real test poses, smoothed (7-frame)",82,0,4,1
+"Real test poses, smoothed (7-frame)",83,0,4,1
+"Real test poses, smoothed (7-frame)",84,0,4,1
+"Real test poses, smoothed (7-frame)",85,0,5,1
+"Real test poses, smoothed (7-frame)",86,1,4,0
+"Real test poses, smoothed (7-frame)",87,0,4,1
+"Real test poses, smoothed (7-frame)",88,0,4,1
+"Real test poses, smoothed (7-frame)",89,0,4,1
+"Real test poses, smoothed (7-frame)",90,0,4,1
+"Real test poses, smoothed (7-frame)",91,0,4,1
+"Real test poses, smoothed (7-frame)",92,0,4,1
+"Real test poses, smoothed (7-frame)",93,0,5,1
+"Real test poses, smoothed (7-frame)",94,0,5,1
+"Real test poses, smoothed (7-frame)",95,0,5,1
+"Real test poses, smoothed (7-frame)",96,0,6,1
+"Real test poses, smoothed (7-frame)",97,0,5,1
+"Real test poses, smoothed (7-frame)",98,0,6,1
+"Real test poses, smoothed (7-frame)",99,0,5,1
+"Real test poses, smoothed (7-frame)",100,0,5,1
+"Real test poses, smoothed (7-frame)",101,0,6,1
+"Real test poses, smoothed (7-frame)",102,1,5,0
+"Real test poses, smoothed (7-frame)",103,0,5,1
+"Real test poses, smoothed (7-frame)",104,0,5,1
+"Real test poses, smoothed (7-frame)",105,0,5,1
+"Real test poses, smoothed (7-frame)",106,0,5,1
+"Real test poses, smoothed (7-frame)",107,0,5,1
+"Real test poses, smoothed (7-frame)",108,0,6,1
+"Real test poses, smoothed (7-frame)",109,0,5,1
+"Real test poses, smoothed (7-frame)",110,0,7,1
+"Real test poses, smoothed (7-frame)",111,0,7,1
+"Real test poses, smoothed (7-frame)",112,0,7,1
+"Real test poses, smoothed (7-frame)",113,0,6,1
+"Real test poses, smoothed (7-frame)",114,0,6,1
+"Real test poses, smoothed (7-frame)",115,0,6,1
+"Real test poses, smoothed (7-frame)",116,0,5,1
+"Real test poses, smoothed (7-frame)",117,0,5,1
+"Real test poses, smoothed (7-frame)",118,0,6,1
+"Real test poses, smoothed (7-frame)",119,0,5,1
+"Real test poses, smoothed (7-frame)",120,1,5,0
+"Real test poses, smoothed (7-frame)",121,1,6,0
+"Real test poses, smoothed (7-frame)",122,0,5,1
+"Real test poses, smoothed (7-frame)",123,0,6,1
+"Real test poses, smoothed (7-frame)",124,0,5,1
+"Real test poses, smoothed (7-frame)",125,0,6,1
+"Real test poses, smoothed (7-frame)",126,0,5,1
+"Real test poses, smoothed (7-frame)",127,0,6,1
+"Real test poses, smoothed (7-frame)",128,0,6,1
+"Real test poses, smoothed (7-frame)",129,0,5,1
+"Real test poses, smoothed (7-frame)",130,0,6,1
+"Real test poses, smoothed (7-frame)",131,0,6,1
+"Real test poses, smoothed (7-frame)",132,0,6,1
+"Real test poses, smoothed (7-frame)",133,0,5,1
+"Real test poses, smoothed (7-frame)",134,0,5,1
+"Real test poses, smoothed (7-frame)",135,0,5,1
+"Real test poses, smoothed (7-frame)",136,0,5,1
+"Real test poses, smoothed (7-frame)",137,0,7,1
+"Real test poses, smoothed (7-frame)",138,1,6,0
+"Real test poses, smoothed (7-frame)",139,0,6,1
+"Real test poses, smoothed (7-frame)",140,0,5,1
+"Real test poses, smoothed (7-frame)",141,0,5,1
+"Real test poses, smoothed (7-frame)",142,0,6,1
+"Real test poses, smoothed (7-frame)",143,1,5,0
+"Real test poses, smoothed (7-frame)",144,1,5,0
+"Real test poses, smoothed (7-frame)",145,0,6,1
+"Real test poses, smoothed (7-frame)",146,1,7,0
+"Real test poses, smoothed (7-frame)",147,0,7,1
+"Real test poses, smoothed (7-frame)",148,1,6,0
+"Real test poses, smoothed (7-frame)",149,0,5,1
+"Real test poses, smoothed (7-frame)",150,0,5,1
+"Real test poses, smoothed (7-frame)",151,0,6,1
+"Real test poses, smoothed (7-frame)",152,0,5,1
+"Real test poses, smoothed (7-frame)",153,0,6,1
+"Real test poses, smoothed (7-frame)",154,0,6,1
+"Real test poses, smoothed (7-frame)",155,0,5,1
+"Real test poses, smoothed (7-frame)",156,0,5,1
+"Real test poses, smoothed (7-frame)",157,0,5,1
+"Real test poses, smoothed (7-frame)",158,0,5,1
+"Real test poses, smoothed (7-frame)",159,1,6,0
+"Real test poses, smoothed (7-frame)",160,0,5,1
+"Real test poses, smoothed (7-frame)",161,0,5,1
+"Real test poses, smoothed (7-frame)",162,0,5,1
+"Real test poses, smoothed (7-frame)",163,0,5,1
+"Real test poses, smoothed (7-frame)",164,0,6,1
+"Real test poses, smoothed (7-frame)",165,0,6,1
+"Real test poses, smoothed (7-frame)",166,0,6,1
+"Real test poses, smoothed (7-frame)",167,0,6,1
+"Real test poses, smoothed (7-frame)",168,0,6,1
+"Real test poses, smoothed (7-frame)",169,0,6,1
+"Real test poses, smoothed (7-frame)",170,0,6,1
+"Real test poses, smoothed (7-frame)",171,1,5,0
+"Real test poses, smoothed (7-frame)",172,0,6,1
+"Real test poses, smoothed (7-frame)",173,0,5,1
+"Real test poses, smoothed (7-frame)",174,1,5,0
+"Real test poses, smoothed (7-frame)",175,0,5,1
+"Real test poses, smoothed (7-frame)",176,0,5,1
+"Real test poses, smoothed (7-frame)",177,0,5,1
+"Real test poses, smoothed (7-frame)",178,0,5,1
+"Real test poses, smoothed (7-frame)",179,1,5,0
+"Real test poses, smoothed (7-frame)",180,0,7,1
+"Real test poses, smoothed (7-frame)",181,1,6,0
+"Real test poses, smoothed (7-frame)",182,0,5,1
+"Real test poses, smoothed (7-frame)",183,0,6,1
+"Real test poses, smoothed (7-frame)",184,0,6,1
+"Real test poses, smoothed (7-frame)",185,0,6,1
+"Real test poses, smoothed (7-frame)",186,0,5,1
+"Real test poses, smoothed (7-frame)",187,0,7,1
+"Real test poses, smoothed (7-frame)",188,0,6,1
+"Real test poses, smoothed (7-frame)",189,1,6,0
+"Real test poses, smoothed (7-frame)",190,1,6,0
+"Real test poses, smoothed (7-frame)",191,1,6,0
+"Real test poses, smoothed (15-frame)",0,0,4,1
+"Real test poses, smoothed (15-frame)",1,0,4,1
+"Real test poses, smoothed (15-frame)",2,0,4,1
+"Real test poses, smoothed (15-frame)",3,0,4,1
+"Real test poses, smoothed (15-frame)",4,0,4,1
+"Real test poses, smoothed (15-frame)",5,0,4,1
+"Real test poses, smoothed (15-frame)",6,0,4,1
+"Real test poses, smoothed (15-frame)",7,0,4,1
+"Real test poses, smoothed (15-frame)",8,1,4,0
+"Real test poses, smoothed (15-frame)",9,0,4,1
+"Real test poses, smoothed (15-frame)",10,0,4,1
+"Real test poses, smoothed (15-frame)",11,0,5,1
+"Real test poses, smoothed (15-frame)",12,0,5,1
+"Real test poses, smoothed (15-frame)",13,0,4,1
+"Real test poses, smoothed (15-frame)",14,1,5,0
+"Real test poses, smoothed (15-frame)",15,1,5,0
+"Real test poses, smoothed (15-frame)",16,0,6,1
+"Real test poses, smoothed (15-frame)",17,0,5,1
+"Real test poses, smoothed (15-frame)",18,0,5,1
+"Real test poses, smoothed (15-frame)",19,0,5,1
+"Real test poses, smoothed (15-frame)",20,0,5,1
+"Real test poses, smoothed (15-frame)",21,1,5,0
+"Real test poses, smoothed (15-frame)",22,1,5,0
+"Real test poses, smoothed (15-frame)",23,0,5,1
+"Real test poses, smoothed (15-frame)",24,1,5,0
+"Real test poses, smoothed (15-frame)",25,0,6,1
+"Real test poses, smoothed (15-frame)",26,0,5,1
+"Real test poses, smoothed (15-frame)",27,0,6,1
+"Real test poses, smoothed (15-frame)",28,0,6,1
+"Real test poses, smoothed (15-frame)",29,2,5,0
+"Real test poses, smoothed (15-frame)",30,0,5,1
+"Real test poses, smoothed (15-frame)",31,0,5,1
+"Real test poses, smoothed (15-frame)",32,0,5,1
+"Real test poses, smoothed (15-frame)",33,0,5,1
+"Real test poses, smoothed (15-frame)",34,1,5,0
+"Real test poses, smoothed (15-frame)",35,0,6,1
+"Real test poses, smoothed (15-frame)",36,0,6,1
+"Real test poses, smoothed (15-frame)",37,0,5,1
+"Real test poses, smoothed (15-frame)",38,0,5,1
+"Real test poses, smoothed (15-frame)",39,1,6,0
+"Real test poses, smoothed (15-frame)",40,1,5,0
+"Real test poses, smoothed (15-frame)",41,0,5,1
+"Real test poses, smoothed (15-frame)",42,0,5,1
+"Real test poses, smoothed (15-frame)",43,0,5,1
+"Real test poses, smoothed (15-frame)",44,1,7,0
+"Real test poses, smoothed (15-frame)",45,1,4,0
+"Real test poses, smoothed (15-frame)",46,0,3,1
+"Real test poses, smoothed (15-frame)",47,0,3,1
+"Real test poses, smoothed (15-frame)",48,0,4,1
+"Real test poses, smoothed (15-frame)",49,0,4,1
+"Real test poses, smoothed (15-frame)",50,0,3,1
+"Real test poses, smoothed (15-frame)",51,0,4,1
+"Real test poses, smoothed (15-frame)",52,1,4,0
+"Real test poses, smoothed (15-frame)",53,0,4,1
+"Real test poses, smoothed (15-frame)",54,0,4,1
+"Real test poses, smoothed (15-frame)",55,0,4,1
+"Real test poses, smoothed (15-frame)",56,0,5,1
+"Real test poses, smoothed (15-frame)",57,0,5,1
+"Real test poses, smoothed (15-frame)",58,0,5,1
+"Real test poses, smoothed (15-frame)",59,0,4,1
+"Real test poses, smoothed (15-frame)",60,1,4,0
+"Real test poses, smoothed (15-frame)",61,1,4,0
+"Real test poses, smoothed (15-frame)",62,1,4,0
+"Real test poses, smoothed (15-frame)",63,0,4,1
+"Real test poses, smoothed (15-frame)",64,0,5,1
+"Real test poses, smoothed (15-frame)",65,0,5,1
+"Real test poses, smoothed (15-frame)",66,0,5,1
+"Real test poses, smoothed (15-frame)",67,0,4,1
+"Real test poses, smoothed (15-frame)",68,0,4,1
+"Real test poses, smoothed (15-frame)",69,0,4,1
+"Real test poses, smoothed (15-frame)",70,0,4,1
+"Real test poses, smoothed (15-frame)",71,0,4,1
+"Real test poses, smoothed (15-frame)",72,0,5,1
+"Real test poses, smoothed (15-frame)",73,0,5,1
+"Real test poses, smoothed (15-frame)",74,0,5,1
+"Real test poses, smoothed (15-frame)",75,1,5,0
+"Real test poses, smoothed (15-frame)",76,0,4,1
+"Real test poses, smoothed (15-frame)",77,0,5,1
+"Real test poses, smoothed (15-frame)",78,1,4,0
+"Real test poses, smoothed (15-frame)",79,0,6,1
+"Real test poses, smoothed (15-frame)",80,1,5,0
+"Real test poses, smoothed (15-frame)",81,0,5,1
+"Real test poses, smoothed (15-frame)",82,0,4,1
+"Real test poses, smoothed (15-frame)",83,0,4,1
+"Real test poses, smoothed (15-frame)",84,1,4,0
+"Real test poses, smoothed (15-frame)",85,0,5,1
+"Real test poses, smoothed (15-frame)",86,1,4,0
+"Real test poses, smoothed (15-frame)",87,0,4,1
+"Real test poses, smoothed (15-frame)",88,0,4,1
+"Real test poses, smoothed (15-frame)",89,0,4,1
+"Real test poses, smoothed (15-frame)",90,0,4,1
+"Real test poses, smoothed (15-frame)",91,0,4,1
+"Real test poses, smoothed (15-frame)",92,0,4,1
+"Real test poses, smoothed (15-frame)",93,0,5,1
+"Real test poses, smoothed (15-frame)",94,0,5,1
+"Real test poses, smoothed (15-frame)",95,0,5,1
+"Real test poses, smoothed (15-frame)",96,0,6,1
+"Real test poses, smoothed (15-frame)",97,0,5,1
+"Real test poses, smoothed (15-frame)",98,1,6,0
+"Real test poses, smoothed (15-frame)",99,1,5,0
+"Real test poses, smoothed (15-frame)",100,0,5,1
+"Real test poses, smoothed (15-frame)",101,1,6,0
+"Real test poses, smoothed (15-frame)",102,0,5,1
+"Real test poses, smoothed (15-frame)",103,0,5,1
+"Real test poses, smoothed (15-frame)",104,1,5,0
+"Real test poses, smoothed (15-frame)",105,0,5,1
+"Real test poses, smoothed (15-frame)",106,0,5,1
+"Real test poses, smoothed (15-frame)",107,1,5,0
+"Real test poses, smoothed (15-frame)",108,0,6,1
+"Real test poses, smoothed (15-frame)",109,0,5,1
+"Real test poses, smoothed (15-frame)",110,0,7,1
+"Real test poses, smoothed (15-frame)",111,0,7,1
+"Real test poses, smoothed (15-frame)",112,0,7,1
+"Real test poses, smoothed (15-frame)",113,0,6,1
+"Real test poses, smoothed (15-frame)",114,0,6,1
+"Real test poses, smoothed (15-frame)",115,0,6,1
+"Real test poses, smoothed (15-frame)",116,0,5,1
+"Real test poses, smoothed (15-frame)",117,0,5,1
+"Real test poses, smoothed (15-frame)",118,0,6,1
+"Real test poses, smoothed (15-frame)",119,0,5,1
+"Real test poses, smoothed (15-frame)",120,1,5,0
+"Real test poses, smoothed (15-frame)",121,1,6,0
+"Real test poses, smoothed (15-frame)",122,1,5,0
+"Real test poses, smoothed (15-frame)",123,0,6,1
+"Real test poses, smoothed (15-frame)",124,1,5,0
+"Real test poses, smoothed (15-frame)",125,1,6,0
+"Real test poses, smoothed (15-frame)",126,0,5,1
+"Real test poses, smoothed (15-frame)",127,0,6,1
+"Real test poses, smoothed (15-frame)",128,0,6,1
+"Real test poses, smoothed (15-frame)",129,0,5,1
+"Real test poses, smoothed (15-frame)",130,0,6,1
+"Real test poses, smoothed (15-frame)",131,0,6,1
+"Real test poses, smoothed (15-frame)",132,0,6,1
+"Real test poses, smoothed (15-frame)",133,0,5,1
+"Real test poses, smoothed (15-frame)",134,0,5,1
+"Real test poses, smoothed (15-frame)",135,0,5,1
+"Real test poses, smoothed (15-frame)",136,1,5,0
+"Real test poses, smoothed (15-frame)",137,0,7,1
+"Real test poses, smoothed (15-frame)",138,2,6,0
+"Real test poses, smoothed (15-frame)",139,1,6,0
+"Real test poses, smoothed (15-frame)",140,0,5,1
+"Real test poses, smoothed (15-frame)",141,0,5,1
+"Real test poses, smoothed (15-frame)",142,0,6,1
+"Real test poses, smoothed (15-frame)",143,1,5,0
+"Real test poses, smoothed (15-frame)",144,1,5,0
+"Real test poses, smoothed (15-frame)",145,0,6,1
+"Real test poses, smoothed (15-frame)",146,0,7,1
+"Real test poses, smoothed (15-frame)",147,1,7,0
+"Real test poses, smoothed (15-frame)",148,1,6,0
+"Real test poses, smoothed (15-frame)",149,0,5,1
+"Real test poses, smoothed (15-frame)",150,0,5,1
+"Real test poses, smoothed (15-frame)",151,0,6,1
+"Real test poses, smoothed (15-frame)",152,0,5,1
+"Real test poses, smoothed (15-frame)",153,0,6,1
+"Real test poses, smoothed (15-frame)",154,0,6,1
+"Real test poses, smoothed (15-frame)",155,0,5,1
+"Real test poses, smoothed (15-frame)",156,0,5,1
+"Real test poses, smoothed (15-frame)",157,0,5,1
+"Real test poses, smoothed (15-frame)",158,0,5,1
+"Real test poses, smoothed (15-frame)",159,2,6,0
+"Real test poses, smoothed (15-frame)",160,0,5,1
+"Real test poses, smoothed (15-frame)",161,0,5,1
+"Real test poses, smoothed (15-frame)",162,0,5,1
+"Real test poses, smoothed (15-frame)",163,1,5,0
+"Real test poses, smoothed (15-frame)",164,0,6,1
+"Real test poses, smoothed (15-frame)",165,0,6,1
+"Real test poses, smoothed (15-frame)",166,0,6,1
+"Real test poses, smoothed (15-frame)",167,0,6,1
+"Real test poses, smoothed (15-frame)",168,1,6,0
+"Real test poses, smoothed (15-frame)",169,0,6,1
+"Real test poses, smoothed (15-frame)",170,0,6,1
+"Real test poses, smoothed (15-frame)",171,1,5,0
+"Real test poses, smoothed (15-frame)",172,0,6,1
+"Real test poses, smoothed (15-frame)",173,0,5,1
+"Real test poses, smoothed (15-frame)",174,1,5,0
+"Real test poses, smoothed (15-frame)",175,0,5,1
+"Real test poses, smoothed (15-frame)",176,0,5,1
+"Real test poses, smoothed (15-frame)",177,0,5,1
+"Real test poses, smoothed (15-frame)",178,0,5,1
+"Real test poses, smoothed (15-frame)",179,1,5,0
+"Real test poses, smoothed (15-frame)",180,0,7,1
+"Real test poses, smoothed (15-frame)",181,1,6,0
+"Real test poses, smoothed (15-frame)",182,0,5,1
+"Real test poses, smoothed (15-frame)",183,0,6,1
+"Real test poses, smoothed (15-frame)",184,0,6,1
+"Real test poses, smoothed (15-frame)",185,0,6,1
+"Real test poses, smoothed (15-frame)",186,0,5,1
+"Real test poses, smoothed (15-frame)",187,0,7,1
+"Real test poses, smoothed (15-frame)",188,0,6,1
+"Real test poses, smoothed (15-frame)",189,1,6,0
+"Real test poses, smoothed (15-frame)",190,1,6,0
+"Real test poses, smoothed (15-frame)",191,1,6,0

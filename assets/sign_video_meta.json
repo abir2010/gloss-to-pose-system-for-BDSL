@@ -1,0 +1,18 @@
+{
+  "sentence_id": "28597",
+  "gloss": "বাবা আগে সন্ধ্যা মাংস খাওয়ায়া না।",
+  "test_index": 98,
+  "pick_seed": 0,
+  "generated_frames": 180,
+  "real_frames": 186,
+  "dtw_mje": 0.11272750049829483,
+  "motion_ratio": 0.777985076231937,
+  "pck_0.5": 99.24249877029021,
+  "context": {
+    "n": 41,
+    "median_dtw_mje": 0.10990934073925018,
+    "min": 0.08364695310592651,
+    "max": 0.26558420062065125
+  },
+  "checkpoint_epoch": 422
+}

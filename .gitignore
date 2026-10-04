@@ -1,0 +1,19 @@
+# environments and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# large or non-redistributable artefacts: never commit these
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.zip
+data/
+checkpoints/
+len_cache.json
+*.log
